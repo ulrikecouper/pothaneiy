@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peiyohmoc.chessvertikalbalashiha.ru/sitemap.xml
